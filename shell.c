@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Log710Shell2.c
+ * Shell.c
  *
  * Authors:	Vincent Fournier
  * 		Jean-Philippe R. Parent
